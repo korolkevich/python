@@ -1,7 +1,7 @@
 .SingleDatePickerInput__withBorder {
-    border: 0px solid #dbdbdb;
+    border: 0px solid #dbdbdb !important;
 }
 #history-absolute-visits.svg-container{
-	width: 834 px;
+	width: 834 px !important;
 	
 }
